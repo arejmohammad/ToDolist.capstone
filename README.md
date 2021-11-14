@@ -1,2 +1,2 @@
 # TodoList.Capstone
-Todo list with SwiftUI
+Todo list with SwiftUI i did is a Todo-List you can create a new todo by providing its name and description and the deadline of the todo. user can choose to make the todo with or without a deadline and description. user can see all of your todos that he already added user can select any of the todos and update its information user can able to remove a todo from the todo list user can able to check the todo which indicates that the todo is done. user can able to uncheck any checked
